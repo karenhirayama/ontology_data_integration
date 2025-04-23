@@ -1,0 +1,12 @@
+product_id,warehouse_id,recommended_restock_quantity
+P002,W01,11.0
+P002,W02,5.0
+P005,W03,5.0
+P010,W01,5.0
+P013,W02,5.0
+P015,W02,5.0
+P015,W03,5.0
+P016,W03,11.0
+P017,W02,7.0
+P017,W03,5.0
+P018,W03,9.0
