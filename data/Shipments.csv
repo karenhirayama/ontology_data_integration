@@ -1,0 +1,81 @@
+shipment_id,order_id,carrier,status
+S0001,O0001,CarrierA,Delivered
+S0002,O0027,CarrierB,Delivered
+S0003,O0076,CarrierB,Delivered
+S0004,O0078,CarrierB,Delivered
+S0005,O0006,CarrierB,Delivered
+S0006,O0097,CarrierC,Delivered
+S0007,O0011,CarrierA,Delivered
+S0008,O0042,CarrierA,Delivered
+S0009,O0079,CarrierC,In Transit
+S0010,O0054,CarrierA,Delivered
+S0011,O0056,CarrierB,Delivered
+S0012,O0100,CarrierA,Delivered
+S0013,O0069,CarrierB,Delivered
+S0014,O0088,CarrierC,Delivered
+S0015,O0038,CarrierA,Delivered
+S0016,O0055,CarrierC,Delayed
+S0017,O0031,CarrierA,Delivered
+S0018,O0052,CarrierB,Delivered
+S0019,O0004,CarrierC,Delivered
+S0020,O0087,CarrierA,Delivered
+S0021,O0003,CarrierB,Delivered
+S0022,O0005,CarrierC,Delivered
+S0023,O0089,CarrierC,Delivered
+S0024,O0016,CarrierA,Delivered
+S0025,O0015,CarrierA,Delivered
+S0026,O0075,CarrierA,Delivered
+S0027,O0073,CarrierB,Delivered
+S0028,O0086,CarrierA,Delivered
+S0029,O0014,CarrierC,Delivered
+S0030,O0028,CarrierC,Delivered
+S0031,O0072,CarrierA,Delivered
+S0032,O0063,CarrierA,Delivered
+S0033,O0083,CarrierC,Delivered
+S0034,O0057,CarrierB,Delivered
+S0035,O0070,CarrierA,Delivered
+S0036,O0019,CarrierA,Delivered
+S0037,O0047,CarrierC,In Transit
+S0038,O0022,CarrierA,Delivered
+S0039,O0045,CarrierB,Delivered
+S0040,O0020,CarrierC,Delivered
+S0041,O0017,CarrierA,Delayed
+S0042,O0030,CarrierC,Delivered
+S0043,O0041,CarrierA,Delivered
+S0044,O0059,CarrierA,In Transit
+S0045,O0025,CarrierA,Delayed
+S0046,O0092,CarrierB,Delayed
+S0047,O0081,CarrierB,Delivered
+S0048,O0080,CarrierC,Delivered
+S0049,O0064,CarrierA,In Transit
+S0050,O0053,CarrierA,In Transit
+S0051,O0023,CarrierB,Delivered
+S0052,O0062,CarrierA,Delivered
+S0053,O0032,CarrierB,Delayed
+S0054,O0039,CarrierA,Delivered
+S0055,O0060,CarrierC,Delivered
+S0056,O0018,CarrierA,Delivered
+S0057,O0066,CarrierA,Delayed
+S0058,O0048,CarrierB,Delayed
+S0059,O0093,CarrierA,In Transit
+S0060,O0049,CarrierA,Delivered
+S0061,O0077,CarrierB,In Transit
+S0062,O0099,CarrierC,Delivered
+S0063,O0009,CarrierC,In Transit
+S0064,O0037,CarrierB,Delivered
+S0065,O0010,CarrierB,Delivered
+S0066,O0071,CarrierB,Delivered
+S0067,O0021,CarrierB,Delivered
+S0068,O0036,CarrierB,Delivered
+S0069,O0082,CarrierC,Delivered
+S0070,O0058,CarrierC,Delivered
+S0071,O0068,CarrierB,In Transit
+S0072,O0007,CarrierA,Delivered
+S0073,O0034,CarrierB,Delivered
+S0074,O0085,CarrierA,Delivered
+S0075,O0026,CarrierB,Delivered
+S0076,O0008,CarrierB,In Transit
+S0077,O0096,CarrierC,In Transit
+S0078,O0002,CarrierA,Delayed
+S0079,O0046,CarrierA,Delivered
+S0080,O0090,CarrierC,Delivered
